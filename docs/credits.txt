@@ -1,0 +1,17 @@
+Team members:
+
+Lin Yanping Rachel
+Producer
+- Game mechanics and UI
+
+Favian Chua
+Technical Lead
+- Game engine architecture
+
+Karmille Flores
+Lead Designer
+- Game mechanics and audio
+
+Song Kwong Yi
+Product and Playtest Manager
+- Art assets and level design
